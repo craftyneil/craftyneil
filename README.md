@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @craftyneil
 - 👀 I’m interested in programmation in Rust, but in more general in computer science
 - 🌱 I’m currently learning how to make games in Rust with the game engine Bevy
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on computer projects about anything and everything
 - 😄 Pronouns: He
 - ⚡ Fun fact: 
 
