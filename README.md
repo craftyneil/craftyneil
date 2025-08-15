@@ -6,7 +6,7 @@ I'm a young an passionate developer who loves coding in rust with the game engin
   - I'm capable of learning by myself just with a browser and a good search engine even if having a person next to you to help you is better.
   - I don't really much care about if you want me to code for the web, games or for bar-metal, if there is rust, I'm here for you
 - 🌱 I’m currently learning how to make games in Rust with the game engine Bevy
-- 💞️ I’m looking to collaborate on computer projects about anything and everything
+- 💞️ I’m looking to collaborate on rust projects about anything and everything
 - 😄 Pronouns: He
 
 ## 🌐 Socials:
